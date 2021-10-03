@@ -1,6 +1,5 @@
 # Curso de HTML5 e CSS3 do professor José de Assis
-Sou estudante e estou acompanhando o curso que é disponibilizado no YouTube gratuitamene. No curso vamos aprender a criar um site one paje 9[
-aprendendo html5 css3 e CEO, será um site moderno e responsivo.
+Sou estudante e estou acompanhando o curso que é disponibilizado no YouTube gratuitamene. No curso vamos aprender a criar um site one paje aprendendo html5 css3 e CEO, será um site moderno e responsivo.
 ## Links indicados
 ### Curso do professor José de Assis
 [CursoHTML5CSSProfessorJosédeAssis](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
