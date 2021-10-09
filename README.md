@@ -19,3 +19,8 @@ Sou estudante e estou acompanhando o curso que é disponibilizado no YouTube gra
 [iconfinder](https://www.iconfinder.com/)
 
 [optimizilla](https://imagecompressor.com.pt/)
+
+### WC3
+[html](https://validator.w3.org/)
+
+[CSS](https://jigsaw.w3.org/css-validator/)
