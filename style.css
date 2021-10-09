@@ -4,6 +4,14 @@
     github.flavioprooliveira.com
 */
 
+/* CSS Reset */
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
 /*Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
 /*Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
