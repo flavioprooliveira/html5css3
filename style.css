@@ -26,7 +26,31 @@ body{
     background-color: #dcdcdc;
 }
 
+.Flex {
+    display: flex;
+    justify-content: space-between;
+    background-color: #a9a9a9;
+}
+
+/* topo */
+#topo {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
 /*Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+/* Cabeçalho*/
+
+header {
+    height: 60px;
+}
+
+#logo img {
+    width: 128px;
+    height: 128px;
+}
 
 /*Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px){
@@ -51,7 +75,7 @@ body{
 /*Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 992px){
     body{
-        background-color: black;
+        background-color: gray;
     }
     /* Layout */
     .Container {
@@ -66,5 +90,16 @@ body{
     /* Layout */
     .Container {
         max-width: 1140px;
+   }
+
+/* Cabeçalho */
+   header {
+       height: 120px;
+   }
+
+   #logo img {
+       width: 189px;
+       height: 189px;
+       margin-top: 20px;
    }
 }
